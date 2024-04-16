@@ -2,7 +2,7 @@ body {
   font-family: Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
-  color: #333;   /* 文字颜色 */
+  color: #7556db;   /* 文字颜色 */
   background-color: #f5f5f5;   /* 背景颜色 */
 }
 
@@ -17,6 +17,8 @@ h1, h2, h3, h4, h5, h6 {
 p {
   margin-top: 0;
   margin-bottom: 10px;
+  color: #333;   /* 段落颜色 */
+  bottom: 0;
 }
 
 a {
