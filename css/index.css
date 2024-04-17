@@ -1,9 +1,26 @@
 body {
-  font-family: Arial, sans-serif;
   font-size: 16px;
-  line-height: 1.5;
-  color: #7556db;   /* 文字颜色 */
-  background-color: #f5f5f5;   /* 背景颜色 */
+  font-family: 'Courier New', Courier, monospace;
+  background: url("img/background.png");
+}
+
+.header {
+  background-color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+.background {
+  background-color: #f5f5f5;
+  padding: 20px;
+}
+
+.logo {
+  display: inline-block;
+  margin-bottom: 10px;
+  font-size: 24px;
+  font-weight: bold;
+  color: #7556db;   /* 标题颜色 */
 }
 
 h1, h2, h3, h4, h5, h6 {
